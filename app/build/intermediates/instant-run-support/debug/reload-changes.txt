@@ -1,0 +1,14 @@
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/HomeScreen$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/AppsGridFragment$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/R$style$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/R$id$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/R$integer$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/RelativeViewWithTouch$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/R$string$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/AppListAdapter$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/R$menu$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/R$styleable$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/R$mipmap$override.class
+CHANGED,/home/pkb/Dropbox/Codeing/Launcher/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/psy23/launcher/R$layout$override.class
